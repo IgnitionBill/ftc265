@@ -1,2 +1,2 @@
 rootProject.name='ftc265'
-include ':lib'
+include ':lib-ftc265'
